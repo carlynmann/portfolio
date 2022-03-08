@@ -1,5 +1,5 @@
 /* CSS Reset */
-html { margin: 0; border: 3in; padding:0; font: size 100%; line height:1;}
+html { margin: 0; border: 3in; padding:0; font-size: 100px; line-height:1px;}
 
 
 body{background-color: #C4D6EA;
@@ -55,6 +55,4 @@ font-weight: bold;
     padding: 25px;
     margin: 25px;
     text-align: center;
-    background-image: ("carlyndoor.jpeg");
-    
     }
