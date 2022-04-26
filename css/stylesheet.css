@@ -1,4 +1,52 @@
 /* CSS Reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a,a:hover{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 100vh
+}
+
+.header .navbar{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.header .navbar .logo a{
+    color:black;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.header .navbar .menu ul{
+    display: inline-block;
+    margin-right: 35px;
+    align-items: center;
+}
+
+.header .navbar .menu ul lu a{
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
 html { margin: 0; border: 3in; padding:0; font-size: 100%; line-height:1;}
 
 
