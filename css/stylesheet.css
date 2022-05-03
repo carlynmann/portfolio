@@ -62,14 +62,13 @@ body{background-color: #C4D6EA;
 /*from w3schools*/
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
     overflow: hidden;
   }
   
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #06061c;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
