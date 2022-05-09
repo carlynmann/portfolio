@@ -2,7 +2,7 @@
 This was an assignment for a class called Digital Product Management taken spring 2022. I plan to improve the site over the summer. 
 
 ## Table of Contents
-- General Info
+- [Heading Link] (General Info)
 - Features
 - Setup
 - Project Status
