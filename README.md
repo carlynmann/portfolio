@@ -5,11 +5,9 @@ This was an assignment for a class called Digital Product Management taken sprin
 - General Info
 - Features
 - Setup
-- Screenshots
 - Project Status
 - Room for Improvement
 - Acknowledgements
-- Contact 
 
 ## General Info
 - Digital Portfolio - in progress
@@ -22,12 +20,23 @@ This was an assignment for a class called Digital Product Management taken sprin
 - Contact: Links to Linkedin and Github profiles
 - Coming Soon: space for projects and skills in progress 
 
-##Screenshots
-![Alt text](http://carlynmann/index.png "Index")
-
-
 ##Setup
-- 
+-  Static Site made on Visual Studio Code
+-  Set up with Microsoft Azure 
+-  Domain set up with namecheap.com
+-  Site traffic is tracked with analytics.google.com
+
+## Project Status
+in progress
+
+## Room for Improvement
+- Add to 'coming soon' page with internship updates and additional projects
+- Change site background 
+- Change color scheme 
+
+## Acknowledgements
+- Portfolio assignment - Mike Colbert 
+- Tab Bar code - W3schools
 
 
 
