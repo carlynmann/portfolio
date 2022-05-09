@@ -20,7 +20,7 @@ This was an assignment for a class called Digital Product Management taken sprin
 - Contact: Links to Linkedin and Github profiles
 - Coming Soon: space for projects and skills in progress 
 
-##Setup
+## Setup
 -  Static Site made on Visual Studio Code
 -  Set up with Microsoft Azure 
 -  Domain set up with namecheap.com
